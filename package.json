@@ -9,6 +9,7 @@
   "author": "KB",
   "license": "ISC",
   "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
     "next": "^8.0.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
